@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginLayout</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="singup">Singup</string>
+    <string name="forget_your_password_recovery">Forget Your Password? Recovery</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
